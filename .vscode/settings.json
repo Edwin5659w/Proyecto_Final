@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "eslint.enable": true,
+    "eslint.validate": [
+        "javascript",
+        "typescript",
+        "vue"
+    ],
+    "files.autoSave": "onWindowChange",
+    "prettier.requireConfig": true
+}
