@@ -1,3 +1,15 @@
+# Integrantes
+* Edwin Yair Molina Cerón
+    - 408873
+    - edwin.molina01@unicatolica.edu.co
+* Sebastian Ceballos Correa
+    - 408964
+    - 01sebas.co@gmail.com / sebastian.ceballos01@unicatolica.edu.co
+
+## Video
+  [Link Video](https://www.youtube.com/watch?v=auNNIwGguQ0)
+
+
 # StyleHub
 
 StyleHub es un proyecto diseñado para proporcionar una plataforma de estilo y moda en línea. Este documento proporciona una visión general del proyecto, así como instrucciones sobre cómo instalar y utilizar la aplicación.
@@ -40,6 +52,7 @@ Para instalar y ejecutar el proyecto, sigue estos pasos:
 5. Ejecuta el servidor backend:
    ```
    cd backend
+   npm run build
    npm start
    ```
 
@@ -53,9 +66,6 @@ Para instalar y ejecutar el proyecto, sigue estos pasos:
 
 Una vez que el servidor y la aplicación frontend estén en funcionamiento, puedes acceder a la aplicación a través de tu navegador en `http://localhost:3000` (o el puerto que hayas configurado).
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor abre un issue o envía un pull request.
 
 ## Licencia
 
